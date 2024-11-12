@@ -54,7 +54,7 @@ body{
 }
 
 .apresentacao__conteudo {
-    width: 615px;
+    width: 38.43rem;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -150,4 +150,23 @@ body{
     width: 190%;
     display: flex;
     flex-direction: column;
+}
+
+@media (max-width:1200px)  {
+    .cabecalho{
+        padding: 5%;
+        justify-items: center;
+    }   
+    .apresentacao{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .apresentacao__conteudo{
+
+    }
+
+
+    .rodape{
+
+    }
 }
