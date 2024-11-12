@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido com o intuito de iniciar uma pagina pessoal na web onde eu possa compartilhar meus trabalhos, portifolio, curriculo e experiências no mundo do desenvolvimento de softwares.
