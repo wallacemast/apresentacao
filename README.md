@@ -1,1 +1,15 @@
-Este projeto foi desenvolvido com o intuito de iniciar uma pagina pessoal na web onde eu possa compartilhar meus trabalhos, portifolio, curriculo e experiências no mundo do desenvolvimento de softwares.
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+!(image)![image](https://github.com/user-attachments/assets/df9c49b4-cafd-4576-8dc9-38431936c16b)
+
+## Ferramentas utilizadas:
+
+*HTML
+
+*CSS
+
+*Flex-box
+
+## Feito Por:
+## Wallace Cavalcante
+
+### Linkedin: https://linkedin.com/in/wallacecavalcante
